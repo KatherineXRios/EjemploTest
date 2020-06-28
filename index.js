@@ -1,3 +1,4 @@
+//Ejemplo de Async Await
 const dbAnime =
 [
     {
