@@ -1,5 +1,5 @@
 //Ejemplo de Async Await
-const dbAnime =
+const dbSeries =
 [
     {
         id : 1,
